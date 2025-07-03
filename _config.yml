@@ -1,0 +1,18 @@
+# Jekyll configuration for GitHub Pages
+# Site settings
+
+# The title of your site
+# It appears in the header and in metadata.
+title: Kevin's Blog
+
+# A short description of your site
+# Used in meta tags for SEO
+description: >
+  Personal website powered by GitHub Pages and Jekyll.
+
+# Use one of GitHub's built-in themes for styling
+# This makes the site easy to maintain.
+theme: jekyll-theme-minimal
+
+# Markdown processor
+markdown: kramdown
