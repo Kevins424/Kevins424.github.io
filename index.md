@@ -1,14 +1,6 @@
 ---
-layout: default
-title: Home
+layout: home
+title: Kevin's Blog
 ---
 
-# Kevin's Blog
-
-Welcome! Here are the latest posts.
-
-<ul>
-{% for post in site.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}</li>
-{% endfor %}
-</ul>
+Welcome to my blog! Here you'll find my latest posts and updates.

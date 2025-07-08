@@ -12,7 +12,7 @@ description: >
 
 # Use one of GitHub's built-in themes for styling
 # This makes the site easy to maintain.
-theme: jekyll-theme-minimal
+theme: minima
 
 # Markdown processor
 markdown: kramdown
